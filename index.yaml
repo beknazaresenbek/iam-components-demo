@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  vcwaltid:
+  - apiVersion: v2
+    appVersion: 0.0.18
+    created: "2024-02-13T07:36:56.925648135Z"
+    dependencies:
+    - name: vcwaltid
+      repository: https://i4Trust.github.io/helm-charts
+      version: 0.0.18
+    description: walt-id chart
+    digest: 518a3fab0edda55b253f5cb307f8038827febd29b44e2b2286f1b76be71098cd
+    name: vcwaltid
+    type: application
+    urls:
+    - https://github.com/beknazaresenbek/iam-components-demo/releases/download/vcwaltid-0.0.1/vcwaltid-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-02-13T07:36:56.925657062Z"
